@@ -1,0 +1,4 @@
+[01-Oct-2025 11:14:19 Europe/Berlin] PHP Fatal error:  Uncaught Error: Call to undefined function ext_from_name() in C:\xampp\htdocs\filetransfer\upload_ajax.php:56
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\filetransfer\upload_ajax.php on line 56
